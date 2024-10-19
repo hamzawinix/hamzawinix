@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">Dev | Hacker</h3>
+<h1 align="center">Hi 👋, I'm Hamza👨‍💻</h1>
+<h3 align="center">Dev | Hacker | Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzawinix&label=Profile%20views&color=0e75b6&style=flat" alt="hamzawinix" /> </p>
+- ⚡ Hi, I'm a Pro hacker rank at HTB [HackTheBox](https://app.hackthebox.com/profile/174366)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzawinix" alt="hamzawinix" /></a> </p>
+- 🌱 I’m currently programming on [Leetcode](https://leetcode.com/u/hamzawinix2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
