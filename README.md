@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamza👨‍💻</h1>
 <h3 align="center">Dev | Hacker | Engineer</h3>
 
-- ⚡ Hi, I'm a Pro hacker rank at HTB [HackTheBox](https://app.hackthebox.com/profile/174366)
+- ⚡ Pro hacker rank at HTB [HackTheBox](https://app.hackthebox.com/profile/174366)
 
-- 🌱 I’m currently programming on [Leetcode](https://leetcode.com/u/hamzawinix2/)
+- 🌱 Currently programming on [Leetcode](https://leetcode.com/u/hamzawinix2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
